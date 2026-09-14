@@ -12,11 +12,11 @@ Trains a Logistic Regression model
 
 Evaluates performance using:
 
-  Accuracy
-  
-  Confusion Matrix
-  
-  Classification Report
+    Accuracy
+    
+    Confusion Matrix
+    
+    Classification Report
 
 Visualizes the confusion matrix using Seaborn
 
